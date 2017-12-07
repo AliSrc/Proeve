@@ -14,6 +14,7 @@ namespace Proeve
         public static void tastvilkaar()
         {
             Console.WriteLine("Tryk paa en vilkaarlig tast for at komme videre");
+            Console.WriteLine("test the new world ");
             Console.ReadKey();
             Console.Clear();
         }
