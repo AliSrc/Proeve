@@ -16,6 +16,7 @@ namespace Proeve
             Console.WriteLine("Tryk paa en vilkaarlig tast for at komme videre");
             Console.WriteLine("test the new world ");
             Console.WriteLine("Edit recieved! By Ali Sarac");
+            Console.WriteLine("Hej med dig");
             Console.ReadKey();
             Console.Clear();
         }
