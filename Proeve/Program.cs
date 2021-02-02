@@ -46,6 +46,7 @@ namespace Proeve
             return result;
         }
 
+        static void Main
         static void Main(string[] args)
         {
             System.Text.Encoding.GetEncoding("ISO-8859-1");
